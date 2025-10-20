@@ -141,8 +141,8 @@ For university-specific issues, please contact your institution's IT department.
 
 ## License
 
-This tool is provided for educational use by Northern University Bangladesh students.
+This tool is provided for educational use by Rangamati Science and Technology University students.
 
 ---
 
-**Note**: This tool is designed specifically for NUB students and follows the university's assignment cover page format requirements. Developed with ❤️ by Abu Sama.
+**Note**: This tool is designed specifically for Rangamati Science and Technology University students and follows the university's assignment cover page format requirements. Developed with ❤️ by Abu Sama.
