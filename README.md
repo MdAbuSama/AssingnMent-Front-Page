@@ -122,8 +122,8 @@ To add new fields to the form:
 
 ## Development
 
-**Developed and Designed by:** Rajdip  
-**Contact:** srajdip920@gmail.com
+**Developed and Designed by:** Abu Sama  
+**Contact:** abusaamaa1997@gmail.com
 
 ### Technologies Used
 
