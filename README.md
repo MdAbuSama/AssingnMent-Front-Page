@@ -1,10 +1,10 @@
-# Assignment Cover Page Generator - NUB
+# Assignment Cover Page Generator - RMSTU
 
-A web-based tool for generating professional assignment cover pages for Northern University Bangladesh (NUB) students.
+A web-based tool for generating professional assignment cover pages for Rangamati Science & Technology University (RMSTU) students.
 
 ## Features
 
-- 🎨 Professional and clean design matching NUB's branding
+- 🎨 Professional and clean design matching RMSTU's branding
 - 📝 Easy-to-use form for entering assignment details
 - 👀 Real-time preview of the cover page
 - 📄 PDF download functionality
@@ -25,7 +25,7 @@ Enter the following information in the form:
 4. **Student ID** - Your university ID number
 5. **Section** - Your class section
 6. **Faculty Name** - Name of your course instructor
-7. **Submission Date** - Date of submission (auto-filled with current date)
+7. **Submission Date** - Date of submission (fill with current date)
 8. **Department** - Your academic department
 
 ### Step 2: Preview the Cover Page
@@ -56,7 +56,7 @@ assignment-cover-generator/
 │
 ├── index.html          # Main HTML file
 ├── image/
-│   └── NUB-Logo.png    # University logo (replace with actual logo)
+│   └── RMSTU-Logo.png    # University logo (replace with actual logo)
 └── README.md           # This documentation file
 ```
 
@@ -87,14 +87,7 @@ For best results when printing:
 
 ### Changing the Logo
 
-Replace the `./image/NUB-Logo.png` file with your institution's logo. Recommended dimensions: 500x100 pixels.
-
-### Modifying Colors
-
-The color scheme uses NUB's brand colors:
-- Primary: `#003366` (Dark Blue)
-- Secondary: `#00509e` (Light Blue)
-- Background: `#e9eef3` (Light Gray)
+Replace the `./image/RMSTU-Logo.png` file with your institution's logo. Recommended dimensions: 500x100 pixels.
 
 ### Adding New Fields
 
@@ -135,15 +128,14 @@ To add new fields to the form:
 ### Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **UI Framework**: Bootstrap 5.3.0
 - **Icons**: Font Awesome 6.4.0
 - **Print Optimization**: CSS Print Media Queries
 ## Support
 
 For technical issues, feature requests, or customization needs, please contact:
 
-**Developer:** Rajdip  
-**Email:** srajdip920@gmail.com
+**Developer:** Abu Sama  
+**Email:** abusaamaa1997@gmail.com
 
 For university-specific issues, please contact your institution's IT department.
 
@@ -153,4 +145,4 @@ This tool is provided for educational use by Northern University Bangladesh stud
 
 ---
 
-**Note**: This tool is designed specifically for NUB students and follows the university's assignment cover page format requirements. Developed with ❤️ by Rajdip.
+**Note**: This tool is designed specifically for NUB students and follows the university's assignment cover page format requirements. Developed with ❤️ by Abu Sama.
